@@ -1,0 +1,13 @@
+Package: bracketology
+Type: Package
+Title: 2.8 million NCAA Men's Basketball Brackets
+Version: 0.1
+Date: 2015-03-21
+Authors@R: 'Sean Kross <smk240@gmail.com> [aut,cre]'
+Description: Predictions from ESPN.com for over 2.8 million NCAA Men's
+  Basketball brackets for the 2015 March Madness Tournament.
+License: CC0
+LazyData: true
+Suggests:
+    dplyr
+URL: http://github.com/seankross/bracketology
